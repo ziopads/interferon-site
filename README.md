@@ -1,11 +1,11 @@
 # interferon-site
 
 ## Navigation
-home
-work
-studio
-ephemera
-contact
+- home
+- work
+- studio
+- ephemera
+- contact
 
 ## home
 interferon is a creative studio that produces work at the intersection of art and technology.
